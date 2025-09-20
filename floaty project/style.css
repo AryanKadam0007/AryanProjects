@@ -1,0 +1,91 @@
+.child1{
+    background: linear-gradient(to right,rgb(60, 60, 220),aqua) ;
+    color: white;
+    width: 100%;
+    }
+.child11{
+    padding: 1px;
+    margin: 15px;
+    width: 48%;
+    float: left;
+    
+}
+.child12{
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 10px ;
+   margin-top: 50px;
+    padding: 5px;
+    float: right;
+    width: 5%;
+}
+.fix{
+    clear:both;
+}
+.child2{
+    line-height: 50px;
+    padding-bottom: 180px;
+    margin-left: 20px;
+    float: left;
+    width: 25%;
+    background: rgba(240, 238, 238, 0.448);
+    border-radius: 15px;
+    font-size: 25px;
+    padding-left: 40px;
+}
+button{
+    float: right ;
+}
+.child3{
+    float: right;
+    width: 70%;
+}
+.child31{
+    width: 98%;
+    background: rgba(240, 238, 238, 0.448);
+    padding: 10px;
+    border-radius: 15px;
+    margin: 10px;
+   
+}
+.child321{
+    width: 29%;
+    background: rgba(240, 238, 238, 0.448);
+    padding: 10px;
+    border-radius: 15px;
+    margin: 10px;
+    float: left;
+}
+.child322{
+    width: 29%;
+    background: rgba(240, 238, 238, 0.448);
+    padding: 10px;
+    border-radius: 15px;
+    margin: 10px;
+    float: left;
+}
+.child323{
+    width: 29%;
+    background: rgba(240, 238, 238, 0.448);
+    padding: 10px;
+    border-radius: 15px;
+    margin: 10px;
+    float: right;
+}
+.child332{
+    width: 70%;
+    background: rgba(240, 238, 238, 0.448);
+    padding: 10px;
+    border-radius: 15px;
+    margin: 10px;
+    float: right;
+}
+.child331{
+    border: 2px solid rgb(60, 60, 220);
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background: linear-gradient(to left,rgb(60, 60, 220),aqua) ;
+    float: left;
+    margin: 20px;
+}
